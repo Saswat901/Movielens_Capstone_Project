@@ -1,4 +1,4 @@
-This file and other files in this repository are the output of the 1st part of the Capstone project under HarvardX Data Science Professional Certificate program.            
+This file and other files in this repository are the output of the 1st part of the Capstone project under HarvardX Data Science Professional Certification program.            
 
 This repository contains the following files             
 
