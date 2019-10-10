@@ -8,12 +8,12 @@ This repository contains the following files
     This file explaining other files in        this repository       
 
 
-2.  Capstone-Project-Report---Movielens.Rmd:         
+2.  Capstone_Project_Report_Movielens_VSrinivas.Rmd:         
 
     Report of the project in R Markdown        (Rmd) format containing introduction,      data analysis, approach, methodology to     build the models, final model, results     & analysis and conclusion.
        
        
-3.  Capstone-Project-Report---Movielens.pdf:   
+3.  Capstone_Project_Report_Movielens_VSrinivas.pdf:   
 
     Report of the project in pdf format        containing introduction, data analysis,     approach, methodology to build the         models, final model, results & analysis     and conclusion.        
     
@@ -23,7 +23,7 @@ This repository contains the following files
     R Project file creating the project in     RStudio     
 
 
-5.  Capstone-Project-Code---Movielens.R:   
+5.  Capstone_Project_Code_Movielens_VSrinivas.R:   
 
     R Script file to generate the necessary     code for set-up, dataset creation,         analysis, model building and output of     results.     
 
